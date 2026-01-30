@@ -1,16 +1,19 @@
-## Hi there 👋
+# Rajdeep Gupta 👋
 
-<!--
-**rajdeepg-dev/rajdeepg-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a BCA student building strong foundations in:
+- Backend Development
+- Internet of Things (IoT)
+- Cybersecurity fundamentals
 
-Here are some ideas to get you started:
+I prefer understanding how systems work internally rather than just using tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Programming fundamentals
+- Backend logic and data flow
+- Hardware–software integration basics
+
+## Philosophy
+Clean code. Clear thinking. Long-term growth.
+
+(Actively learning and updating)
