@@ -17,3 +17,4 @@ I prefer understanding how systems work internally rather than just using tools.
 Clean code. Clear thinking. Long-term growth.
 
 (Actively learning and updating)
+Currently connecting data analysis insights with backend systems thinking.
